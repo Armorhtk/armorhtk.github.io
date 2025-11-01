@@ -24,7 +24,9 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I’m currently doing my Ph.D. in computer science and at Southwest University. My academic background overlaps machine learning, sar imaging, mmWave radar signal/image processing, optimization and inverse problems. I am truly passionate about remaining at the intersection of these fields and driving innovation along with fellow researchers from the sides of both mmWave  and machine learning. Feel free to explore my CV to learn more about me.
+I’m currently doing my Ph.D. in computer science and at Southwest University. 
+
+My academic background overlaps machine learning, sar imaging, mmWave radar signal processing, optimization and inverse problems. I am truly passionate about remaining at the intersection of these fields and driving innovation along with fellow researchers from the sides of both mmWave  and machine learning.
 
 Over the past two years, I have been actively working on SAR image reconstruction with generative models. Feel free to check my projects page. You will find I have used python, C/C++, shell and Latex in my projects on [armorhtk@github](https://github.com/Armorhtk). I have spent much time with JAX/Tensorflow/Pytorch.
 
